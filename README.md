@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Pankaj Gothwal</h1>
+<h1 align="center">Hey there! 👋 I'm Pankaj </h1>
 <h3 align="center">CSE'27 @ Faculty of Technology, University of Delhi | Aspiring Software Developer 🚀</h3>
 
 ---
@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering (CSE'27)** at **FoT DU** with a specialization in **AI/ML**.
 - 💻 Passionate about **Software Development** and constantly improving in **Data Structures & Algorithms**.
-- 🧠 Learning **Java**, **Python**, and **Web Development (HTML, CSS, JavaScript)**.
+- 🧠 Learning **React.js**, **Node.js**, and **MongoDB**.
 - 🌱 Actively practicing on coding platforms and building my developer journey.
 - 🤝 Looking to collaborate on **projects**, **open-source contributions**, and **hackathons**.
 
@@ -31,8 +31,14 @@
 
 📫 **Reach Me At:**
 
-- 💼 LinkedIn: [pankaj-gothwal](https://www.linkedin.com/in/pankaj-gothwal)
-- 📸 Instagram: [@pankaj226_](https://www.instagram.com/pankaj226_?igsh=anlzOGNwcG03cWls)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj-gothwal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/pankaj226_?igsh=anlzOGNwcG03cWls" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 
 ---
 
@@ -43,7 +49,3 @@
 
 ---
 
-<!-- Optional Visitor Badge -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Pankaj-981.Pankaj-981&style=flat-square" alt="visitors"/>
-</p>
