@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pankaj Gothwal</h1>
+<h1 align="center">Hi 👋, I'm Pankaj </h1>
 <h3 align="center">A passionate Full Stack Developer & Open Source Contributor</h3>
 
 - 🔭 I’m currently working on **MERN & Flutter Projects**
