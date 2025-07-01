@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Pankaj </h1>
-<h3 align="center">CSE'27 @ Faculty of Technology, University of Delhi | Aspiring Software Developer 🚀</h3>
+<h3 align="center">CSE'27 @ Faculty of Technology,University of Delhi | Aspiring Software Developer 🚀</h3>
 
 ---
 
@@ -45,7 +45,5 @@
 🎯 **Certifications:**
 - ✅ GenAI Powered Data Analytics Job Simulation
 
----
 
----
 
