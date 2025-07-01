@@ -25,16 +25,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-981&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Pankaj-981&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 📫 **Reach Me At:**
 
-- Email: [pgothwal2006@gmail.com](mailto:pgothwal2006@gmail.com)
-- LinkedIn: [pankaj-gothwal](https://www.linkedin.com/in/pankaj-gothwal)
+- 💼 LinkedIn: [pankaj-gothwal](https://www.linkedin.com/in/pankaj-gothwal)
+- 📸 Instagram: [@pankaj226_](https://www.instagram.com/pankaj226_?igsh=anlzOGNwcG03cWls)
 
 ---
 
@@ -42,10 +40,6 @@
 - ✅ GenAI Powered Data Analytics Job Simulation
 
 ---
-
-🌟 **Quote I Live By:**
-
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ---
 
