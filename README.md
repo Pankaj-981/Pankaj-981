@@ -34,7 +34,5 @@
 
 ---
 
-🎯 **Certifications:**
-- ✅ GenAI Powered Data Analytics Job Simulation
 
 
