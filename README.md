@@ -86,20 +86,8 @@ Fine-tuned TinyLlama using LoRA (PEFT) for empathetic conversational AI.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pankaj-981&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-981&layout=compact&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-981&theme=github-dark"/>
-</p>
-
----
-
-## 📫 Connect
+## 📫 Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pankaj-gothwal">
